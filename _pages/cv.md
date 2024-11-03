@@ -37,7 +37,7 @@ Professional Experience
 =====
 
 **Research**
-- Research Assistant for Prof. Byoungchan Less, 2021 - 2022
+- Research Assistant for Prof. Byoungchan Lee, 2021 - 2022
 - Research Assistant for Prof. Marc Dordal i Carreras, 2024 - present
   
 **Teaching**
@@ -47,7 +47,7 @@ Professional Experience
 
 Awards
 ======
-- Oversea Research Award from HKUST, Jun 2023
+- Overseas Research Award from HKUST, Jun 2023
 - Dean’s Postgraduate Scholarship from HKUST, Apr 2023
 - Postgraduate Studentship from the HKUST, 2019 - present
 - China National Scholarship for Undergraduate Students, Nov 2015
