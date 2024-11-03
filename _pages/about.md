@@ -10,18 +10,18 @@ redirect_from:
 
 
 
-Welcome to my website! I am a PhD candidate in Economics at HKUST Business School. Please see my [CV.pdf](https://zhenghua-qi.github.io/files/Curriculum_Vitae_0505.pdf) (August 2024) here.
+Welcome to my website! I am a PhD candidate in Economics at HKUST Business School.
 
 My research interests are in macroeconomics, firm dynamics, and expectations. 
 
 I received my bachelor's degree in Finance from Shandong University and my master's degree in Finance and Economics with distinction from the London School of Economics and Political Science.
 
-My contact information: zqiae@connect.ust.hk
+<!-- My contact information: zqiae@connect.ust.hk -->
 
-Please see my recent work below:
+- I am on the 2024-2025 job market.
 
-- Endogenous Firm Entry and the Supply-Side Effects of Monetary Policy (with Marc Dordal i Carreras and Seung Joo Lee): [Draft](https://zhenghua-qi.github.io/files/AD_AS_draft.pdf) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891217)
+- **[Job Market Paper]** Bank Loan Reliance and Inflation Inattention (with Tiziano Ropele): [Slides](https://zhenghua-qi.github.io/files/inflation_slides.pdf) [Draft coming soon!]
 
-- Bank Loan Reliance and Inflation Inattention (with Tiziano Ropele): [Slides](https://zhenghua-qi.github.io/files/inflation_slides.pdf) [Draft coming soon!]
+- Please feel free to contact me at:
+  <br>Email: [zqiae(at)connect(dot)ust(dot)hk](mailto: zqiae@connect.ust.hk)
 
-- Diagnostic Expectations in Housing Price Dynamics (with Byoungchan Lee)
