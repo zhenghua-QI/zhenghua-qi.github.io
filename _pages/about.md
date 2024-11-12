@@ -23,5 +23,5 @@ I received my bachelor's degree in Finance from Shandong University and my maste
 - **[Job Market Paper]** Bank Loan Reliance and Inflation Inattention (with Tiziano Ropele): [Slides](https://zhenghua-qi.github.io/files/inflation_slides.pdf) [Draft coming soon!]
 
 - Please feel free to contact me at:
-  <br>Email: [zqiae(at)connect(dot)ust(dot)hk](mailto: zqiae@connect.ust.hk)
+  <br>Email: [zqiae@connect.ust.hk](mailto: zqiae@connect.ust.hk)
 
