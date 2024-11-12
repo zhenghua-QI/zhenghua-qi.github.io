@@ -11,7 +11,7 @@ redirect_from:
 
 Curriculum Vitae
 ======
-You can download a PDF version of my CV [here](https://zhenghua-qi.github.io/files/Curriculum Vitae_1103.pdf).
+You can download a PDF version of my CV [here](https://zhenghua-qi.github.io/files/Curriculum Vitae_1108.pdf).
 
 ---
 
