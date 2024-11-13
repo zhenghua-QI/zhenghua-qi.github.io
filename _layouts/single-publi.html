@@ -31,9 +31,9 @@ layout: default
               {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
             </h1>
 <!--             <span style="font-weight: normal; display: inline; font-size: 24px;">(joint with {{ page.coauthors }})</span> -->
-            {% if post.coauthors %}
+            {% if page.coauthors %}
               <span style="font-weight: normal; display: inline; font-size: 18px;">
-                  (joint with {{ post.coauthors }})
+                  (joint with {{ page.coauthors }})
               </span>
             {% endif %}
           {% endif %}
