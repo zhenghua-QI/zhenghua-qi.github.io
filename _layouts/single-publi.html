@@ -30,7 +30,12 @@ layout: default
             <h1 class="page__title" itemprop="headline"  style="display: inline; text-decoration: none; margin-right: 5px;">
               {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
             </h1>
-            <span style="font-weight: normal; display: inline; font-size: 24px;">(joint with {{ page.coauthors }})</span>
+<!--             <span style="font-weight: normal; display: inline; font-size: 24px;">(joint with {{ page.coauthors }})</span> -->
+            {% if post.coauthors %}
+              <span style="font-weight: normal; display: inline; font-size: 18px;">
+                  (joint with {{ post.coauthors }})
+              </span>
+            {% endif %}
           {% endif %}
           {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
