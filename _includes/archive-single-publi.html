@@ -36,7 +36,12 @@
         {{ title }}
       </h3>
     {% endif %}
-    <span style="font-weight: normal; display: inline; font-size: 18px;">(joint with {{ post.coauthors }})</span>
+<!--     <span style="font-weight: normal; display: inline; font-size: 18px;">(joint with {{ post.coauthors }})</span> -->
+    {% if post.coauthors %}
+      <span style="font-weight: normal; display: inline; font-size: 18px;">
+          (joint with {{ post.coauthors }})
+      </span>
+    {% endif %}
 
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
