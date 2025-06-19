@@ -17,7 +17,7 @@ You can download a PDF version of my CV [here](https://zhenghua-qi.github.io/fil
 
 Education
 ======
-* Ph.D. Candidate in Economics, *Hong Kong University of Science and Technology*, Aug 2019 - Present
+* Ph.D. in Economics, *Hong Kong University of Science and Technology*, Aug 2019 - May 2025
 * M.Sc. in Finance and Economics, *London School of Economics and Political Science*, Aug 2018 - Jun 2019
 * B.Ec. in Finance, *Shandong University*, Sep 2014 - Jun 2018
 
@@ -38,7 +38,7 @@ Professional Experience
 
 **Research**
 - Research Assistant for Prof. Byoungchan Lee, 2021 - 2022
-- Research Assistant for Prof. Marc Dordal i Carreras, 2024 - present
+- Research Assistant for Prof. Marc Dordal i Carreras, 2024 - 2025
   
 **Teaching**
 - Teaching Assistant, Department of Economics, 2019 - 2024 <br>Macroeconomics, Money and Banking, The Economics of Entrepreneurship and Innovation, Microeconomic Analysis
@@ -58,7 +58,6 @@ Skills
 ======
 - **Technical Skills**: MATLAB, R, Stata, SPSS, EViews
 - **Languages**: English (fluent), Mandarin (native)
-- **Student Work**: HKUST Undergraduate Hall 9 Tutor (2021-2023)
 
 
 <!-- Work experience
