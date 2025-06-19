@@ -49,8 +49,7 @@ Awards
 ======
 - Overseas Research Award from HKUST, Jun 2023
 - Dean’s Postgraduate Scholarship from HKUST, Apr 2023
-- Postgraduate Studentship from the HKUST, 2019 - present
-- China National Scholarship for Undergraduate Students, Nov 2015
+- Postgraduate Studentship from the HKUST, 2019 - 2025
 
 ---
 
