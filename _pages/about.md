@@ -10,17 +10,13 @@ redirect_from:
 
 
 
-Welcome to my website! I am a PhD candidate in Economics at HKUST Business School.
+Welcome to my website! I will be joining the WeBank Institute of FinTech at Shenzhen University this summer as an Assistant Professor in Economics.
 
 My research interests are in macroeconomics, firm dynamics, and expectations. 
 
-I received my bachelor's degree in Finance from Shandong University and my master's degree in Finance and Economics with distinction from the London School of Economics and Political Science.
+I received my Ph.D. in Economics from HKSUT in 2025, my master's degree in Finance and Economics from LSE in 2019, and my bachelor's degree in Finance from Shandong University in 2018.
 
 <!-- My contact information: zqiae@connect.ust.hk -->
-
-- I am on the 2024-2025 job market.
-
-- **[Job Market Paper]** Bank Loan Reliance and Inflation Inattention (with Tiziano Ropele): [Slides](https://zhenghua-qi.github.io/files/inflation_slides_latest.pdf) [Draft](https://zhenghua-qi.github.io/files/JMP_latest.pdf)
 
 - Please feel free to contact me at:
   <br>Email: [zqiae@connect.ust.hk](mailto: zqiae@connect.ust.hk)
