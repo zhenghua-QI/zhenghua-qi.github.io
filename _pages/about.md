@@ -19,5 +19,5 @@ I received my Ph.D. in Economics from HKSUT in 2025, my master's degree in Finan
 <!-- My contact information: zqiae@connect.ust.hk -->
 
 - Please feel free to contact me at:
-  <br>Email: [zqiae@connect.ust.hk](mailto: zqiae@connect.ust.hk)
+  <br>Email: [zhenghua.qi@outlook.com](mailto: zhenghua.qi@outlook.com)
 
