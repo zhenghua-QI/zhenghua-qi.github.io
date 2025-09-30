@@ -26,14 +26,14 @@ Education
 Research
 ======
 
-- **[Job Market Paper]** Bank Loan Reliance and Inflation Inattention, with Tiziano Ropele
+- Bank Loan Reliance and Inflation Inattention, with Tiziano Ropele
 - Endogenous Firm Entry and the Supply-Side Effects of Monetary Policy, with Marc Dordal i Carreras and Seung Joo Lee
 - Diagnostic Expectations in Housing Price Dynamics, with Byoungchan Lee
 - The Scarring Effects of Initial Conditions on Firms, work in progress
 
 ---
 
-Professional Experience
+<!--Professional Experience
 =====
 
 **Research**
@@ -41,15 +41,8 @@ Professional Experience
 - Research Assistant for Prof. Marc Dordal i Carreras, 2024 - 2025
   
 **Teaching**
-- Teaching Assistant, Department of Economics, 2019 - 2024 <br>Macroeconomics, Money and Banking, The Economics of Entrepreneurship and Innovation, Microeconomic Analysis
-
----
-
-Awards
-======
-- Overseas Research Award from HKUST, Jun 2023
-- Dean’s Postgraduate Scholarship from HKUST, Apr 2023
-- Postgraduate Studentship from the HKUST, 2019 - 2025
+- Instructor, SAFTI, Shenzhen University, 2025 <br>Macroeconomics
+- Teaching Assistant, Department of Economics, HKUST, 2019 - 2024 <br>Macroeconomics, Money and Banking, The Economics of Entrepreneurship and Innovation, Microeconomic Analysis
 
 ---
 
@@ -59,7 +52,7 @@ Skills
 - **Languages**: English (fluent), Mandarin (native)
 
 
-<!-- Work experience
+Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
