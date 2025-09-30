@@ -2,7 +2,6 @@
 title: "Teaching experience"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/teaching-experience
 venue: "HKUST, Department of Economics"
 date: 2019-01-01
 location: "Hong Kong SAR"
