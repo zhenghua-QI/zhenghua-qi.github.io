@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhenghua QI (齐正华)"
 title_separator          : "-"
 name                     : &name "Zhenghua QI"
-description              : &description "PhD candidate at Hong Kong University of Science and Technology"
+description              : &description "Assistant Professor at Shenzhen Audencia Financial Technology Institute and WeBank Institute of Fintech, Shenzhen University"
 url                      : https://zhenghua-qi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhenghua-QI/zhenghua-qi.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhenghua QI"
   avatar           : "profile.jpg"
-  bio              : "PhD candidate at Hong Kong University of Science and Technology"
-  location         : "Hong Kong SAR"
+  bio              : "Assistant Professor at Shenzhen Audencia Financial Technology Institute and WeBank Institute of Fintech, Shenzhen University"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : zqiae@connect.ust.hk
+  email            : zhenghuaqi@szu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
