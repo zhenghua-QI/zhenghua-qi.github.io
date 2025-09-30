@@ -1,11 +1,4 @@
----
-title: "Teaching experience"
-collection: teaching
-type: "Teaching Assistant"
-venue: "HKUST, Department of Economics"
-date: 2019-01-01
-location: "Hong Kong SAR"
----
+
 
 - ECON 4999Q: The Economics of Entrepreneurship and Innovation (2019-20 Spring)
 - ECON 4999Q: The Economics of Entrepreneurship and Innovation (2020-21 Spring)
