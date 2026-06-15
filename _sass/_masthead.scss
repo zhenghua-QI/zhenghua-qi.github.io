@@ -41,6 +41,13 @@
   }
 }
 
+.site-nav__links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem 0.5rem;
+}
+
 .masthead__menu-item {
   display: block;
   list-style-type: none;
