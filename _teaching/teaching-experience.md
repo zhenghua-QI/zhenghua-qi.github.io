@@ -5,6 +5,7 @@ type: "Teaching Assistant"
 venue: "HKUST, Department of Economics"
 date: 2019-01-01
 location: "Hong Kong SAR"
+output: false
 ---
 
 - ECON 4999Q: The Economics of Entrepreneurship and Innovation (2019-20 Spring)

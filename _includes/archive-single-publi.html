@@ -29,7 +29,7 @@
 
     {% if post.custom_excerpt %}
       <h3 class="archive__item-title" itemprop="headline" style="display: inline; margin-right: 5px;">
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        {{ title }}
       </h3>
     {% else %}
       <h3 class="archive__item-title" itemprop="headline" style="display: inline; text-decoration: none; margin-right: 5px;">
@@ -78,7 +78,7 @@
     {% if post.custom_excerpt and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.custom_excerpt and site.read_more == 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+      <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p></p>
     {% endif %}
 
 
